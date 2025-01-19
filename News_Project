@@ -1,0 +1,12 @@
+<script>start("/Users/omriliberty/Desktop/DS/NLP/News_Project/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,416,"416 B",1737285310,"1/19/25, 1:15:10 PM");</script>
+<script>addRow("configs","configs",1,96,"96 B",1737286169,"1/19/25, 1:29:29 PM");</script>
+<script>addRow("data","data",1,64,"64 B",1737285656,"1/19/25, 1:20:56 PM");</script>
+<script>addRow("models","models",1,64,"64 B",1737285697,"1/19/25, 1:21:37 PM");</script>
+<script>addRow("notebooks","notebooks",1,64,"64 B",1737285723,"1/19/25, 1:22:03 PM");</script>
+<script>addRow("src","src",1,96,"96 B",1737286141,"1/19/25, 1:29:01 PM");</script>
+<script>addRow("static","static",1,64,"64 B",1737285827,"1/19/25, 1:23:47 PM");</script>
+<script>addRow("tests","tests",1,96,"96 B",1737286197,"1/19/25, 1:29:57 PM");</script>
+<script>addRow(".DS_Store",".DS_Store",0,10244,"10.0 kB",1737286047,"1/19/25, 1:27:27 PM");</script>
+<script>addRow("README.md","README.md",0,14,"14 B",1737285263,"1/19/25, 1:14:23 PM");</script>
